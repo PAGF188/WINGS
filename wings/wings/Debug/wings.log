@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\pagf\documents\pablo\ingenieria_informatica\computacion_grafica\proyecto\wings\wings\wings\main.cpp(82): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  wings.vcxproj -> C:\Users\PAGF\Documents\pablo\Ingenieria_informatica\Computacion_grafica\proyecto\WINGS\wings\Debug\wings.exe
